@@ -32,3 +32,5 @@ lib/
 ├── app_state.dart        # App-wide state management
 ├── index.dart            # Widget index or navigation
 └── main.dart             # App entry point
+
+Built by : Ken Patrick Garcia, Brian Ashley Papa
